@@ -685,7 +685,7 @@ p {
 blockquote p{
     font-weight: 600;
 }
-figcaption::before{
+cite::before{
     content: '\2014 \00A0';
 }
 
