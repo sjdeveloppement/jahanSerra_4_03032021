@@ -677,7 +677,16 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 16px;
+}
+.card-home {
+    font-size: 14px;
+}
+blockquote p{
+    font-weight: 600;
+}
+figcaption::before{
+    content: '\2014 \00A0';
 }
 
 .tight-width-whitespace {
@@ -780,7 +789,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: black!important;
 }
 
 .btn-atomic-tangerine:hover {
