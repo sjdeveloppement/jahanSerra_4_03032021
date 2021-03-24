@@ -715,6 +715,10 @@ cite::before{
     color: #414141;
     font-weight: 900;
 }
+.access-font{
+    color: #414141;
+    font-weight: 900;
+}
 .social {
     max-width: 400px;
     margin: auto;
